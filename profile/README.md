@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -37,7 +35,8 @@ We believe the law should work for everyone—securely, accessibly, and transpar
 
 ## 🚀 Why We Started
 
-Legal work is full of repetitive tasks, paper trails, and bottlenecks. We set out to help legal teams focus on people and outcomes—not paperwork and red tape. Our approach isn't just about code—it's about collaboration, learning, and building bridges between law, business, and technology.
+Legal work is full of repetitive tasks, paper trails, and bottlenecks. We set out to help legal teams focus on people and outcomes not paperwork and red tape. 
+Our approach isn't just about code, it's about collaboration, learning, and building bridges between law, business, and technology.
 
 ---
 
@@ -51,7 +50,7 @@ Legal work is full of repetitive tasks, paper trails, and bottlenecks. We set ou
 
 ## 🤝 Connect With Us
 
-- Learn more at [hakichain.com](https://hakichain.co.ke)
+- Learn more at [hakichain.co.ke](https://hakichain.co.ke)
 - Join the community via [GitHub Discussions](https://github.com/orgs/HakiChain-Main/discussions)
 - Interested in collaboration? Email us at [support@hakichain.com](mailto:support@hakichain.com)
 
